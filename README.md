@@ -1,1 +1,1 @@
-# Resource-Allocation-in-Cloud-Computing-using-PSO-nd-Fuzzy-Logic
+# Resource-Allocation-in-Cloud-Computing-using-PSO-and-Fuzzy-Logic
