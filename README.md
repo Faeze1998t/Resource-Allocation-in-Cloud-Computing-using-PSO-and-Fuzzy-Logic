@@ -2,9 +2,9 @@
 <p>
   Hello everyone
 
-Cloud computing has become a viable option for many organizations due to its flexibility and scalability in providing virtualized resources via the Internet. It offers the possibility of hosting pervasive applications in the consumer, scientific, and business domains utilizing a pay-as-you-go model. This makes cloud computing a cost-effective solution for businesses as it eliminates the need for large investments in hardware and software infrastructure. Furthermore, cloud computing enables organizations to quickly and easily scale their services to meet the demands of their customers. Resource allocation is a major challenge in cloud computing. It is known as the NP-hard problem and can be solved using meth-heuristic algorithms. This study optimizes resource allocation using the Particle Swarm Optimization (PSO) algorithm and fuzzy logic system developed under the proposed time and cost models in the cloud computing environment. Receiving, processing, and waiting time are included in the time model. The cost model incorporates processing and receiving costs. 
-In this project, i have implemented a code to improve resource allocation using fuzzy Logic and Mopso algorithms.
-</p>
+Cloud computing has become a viable option for many organizations due to its flexibility and scalability in providing virtualized resources via the Internet. It offers the possibility of hosting pervasive applications in the consumer, scientific, and business domains utilizing a pay-as-you-go model. This makes cloud computing a cost-effective solution for businesses as it eliminates the need for large investments in hardware and software infrastructure. Furthermore, cloud computing enables organizations to quickly and easily scale their services to meet the demands of their customers. Resource allocation is a major challenge in cloud computing. It is known as the NP-hard problem and can be solved using meth-heuristic algorithms. This study optimizes resource allocation using the Particle Swarm Optimization (PSO) algorithm and fuzzy logic system developed under the proposed time and cost models in the cloud computing environment. Receiving, processing, and waiting time are included in the time model. The cost model incorporates processing and receiving costs. </p>
+<p>In this project, i have implemented a code to improve resource allocation using fuzzy Logic and Mopso algorithms.</p>
+
 
 <p>
 
