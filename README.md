@@ -7,7 +7,6 @@ In this project, i have implemented a code to improve resource allocation using 
 </p>
 
 <p>
- # Resource Allocation using PSO and Fuzzy Logic in Cloud Computing
 
 # Step 1: Import required libraries
 ```
